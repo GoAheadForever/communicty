@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "github.redirect_uri",
+      "type": "java.lang.String",
+      "description": "Description for github.redirect_uri."
+    },
+    {
+      "name": "github.client_secret",
+      "type": "java.lang.String",
+      "description": "Description for github.client_secret."
+    },
+    {
+      "name": "github.client_id",
+      "type": "java.lang.String",
+      "description": "Description for github.client_id."
+    },
+    {
+      "name": "github.scope",
+      "type": "java.lang.String",
+      "description": "Description for github.scope."
+    }
+  ] }

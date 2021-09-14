@@ -6,3 +6,11 @@ server:
 spring:
   application:
     name: community
+
+gitee:
+  Client:
+   id: 59cb5baf63c749d31778bfa1d36f406e22be05685dd790d85afb88d25f936181
+   secret: 40d3bc3075fa5ffb25c463cbc1dca7ae9d1f67b73d34c36b695ac692ce3fcbf9
+  redirect:
+   uri: http://localhost:8080/callback
+
